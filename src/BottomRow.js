@@ -19,7 +19,7 @@ const BottomRow = (props) => {
       </div>
       <div className="quarter">
         <h3 className="quarter__title">Penalty</h3>
-        <div className="quarter__value">{penaltyTime}</div>
+        <div className="quarter__value">0{penaltyTime}:00</div>
       </div>
     </div>
   );
